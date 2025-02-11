@@ -1,5 +1,8 @@
 # Snake-Water-Gun-game
-# It's a funny or time passing game.Here below provided the code of it.
+It's a funny or time passing game.Here below provided the code of it.
+
+
+
 import random
 options = {"snack":1, "water":2, "gun":3}
 print("choose any option from given option:", options)
